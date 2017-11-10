@@ -1,1 +1,3 @@
 Well, let's see if github lives up to the hype.
+So far, so good, but lets really see what we're working with here.
+Finally, let's see if these chages only exist on the textimprovement branch
